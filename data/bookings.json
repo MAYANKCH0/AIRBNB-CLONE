@@ -1,0 +1,22 @@
+{
+  "bookings": [
+    {
+      "id": "5043a9a7-8195-4995-a65a-800a44089f6f",
+      "homeId": "1",
+      "name": "mayank chauhan",
+      "email": "mayankchauhan020202@gmail.com",
+      "date": "2025-12-12",
+      "guests": "4",
+      "createdAt": "2025-06-19T10:11:34.827Z"
+    },
+    {
+      "id": "fb3a5037-12e8-4b3c-a0f5-ae96c241aaf5",
+      "homeId": "2",
+      "name": "mayank chauhan",
+      "email": "mayankchauhan020202@gmail.com",
+      "date": "2025-12-12",
+      "guests": "2",
+      "createdAt": "2025-06-19T10:13:15.372Z"
+    }
+  ]
+}
